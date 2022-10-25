@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Compiler Design"
+    },
+    {
+      "id": "02",
+      "name": "Data Structure and Algorithm"
+    },
+    {
+      "id": "03",
+      "name": "Operating System"
+    },
+    {
+      "id": "04",
+      "name": "Computer Organization and Architecture"
+    },
+    {
+      "id": "05",
+      "name": "DBMS"
+    },
+    {
+      "id": "06",
+      "name": "Discrete Mathematics"
+    },
+    {
+      "id": "07",
+      "name": "Theory of Computation"
+    },
+    {
+      "id": "08",
+      "name": "Object Oriented Programming"
+    }
+  ]
