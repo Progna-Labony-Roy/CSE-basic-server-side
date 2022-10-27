@@ -22,8 +22,14 @@ app.get('/details',(req,res) =>{
 
 app.get('/course/:id',(req,res) =>{
     const id =req.params.id;
-    const course=details.find(n =>n.category_id === id);
+    const course=details.find(n =>n.course_id === id);
     res.send(course)
+})
+
+app.get('/course/:id',(req,res) =>{
+    const id =req.params.id;
+    const course=details.find(n =>n.course_id === id);
+    res.download(course)
 })
 
 app.get('/details/:id',(req,res) =>{
