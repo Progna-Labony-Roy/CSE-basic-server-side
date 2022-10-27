@@ -1,15 +1,35 @@
 const express = require('express')
-const app =express()
+const app =express();
+const cors = require('cors');
 const port =process.env.PORT || 5000;
 
-const categorires =require('./data/categories.json');
+app.use(cors());
+
+const courses = require('./data/courses.json');
+const details =require('./data/details.json')
 
 app.get('/',(req, res) =>{
     res.send('News API');
 })
 
-app.get('/course-categories',(req,res) =>{
-    res.send(categorires)
+app.get('/courses',(req,res) =>{
+    res.send(courses)
+})
+
+app.get('/details',(req,res) =>{
+    res.send(details)
+})
+
+app.get('/course/:id',(req,res) =>{
+    const id =req.params.id;
+    const course=details.find(n =>n.category_id === id);
+    res.send(course)
+})
+
+app.get('/details/:id',(req,res) =>{
+    const id= req.params.id;
+    const selectedCourse = details.find (c => c._id ===id);
+    res.send(selectedCourse);
 })
 
 app.listen(port,() =>{
