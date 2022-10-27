@@ -6,8 +6,10 @@
     "price": 488,
     "title": "Learn Compiler Design Tutorial - CSE basic",
     "name": "Compiler Design",
-    "image_url": "compiler-design",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://files.codingninjas.in/compiler-design-20808.png",
+    "intro": "A compiler translates the code written in one language to some other language without changing the meaning of the program. It is also expected that a compiler should make the target code efficient and optimized in terms of time and space.",
+    "descrition": "Compiler design principles provide an in-depth view of translation and optimization process. Compiler design covers basic translation mechanism and error detection & recovery. It includes lexical, syntax, and semantic analysis as front end, and code generation and optimization as back-end.",
+    "details": "There are many different types of compilers which produce output in different useful forms. A cross-compiler produces code for a different CPU or operating system than the one on which the cross-compiler itself runs. A bootstrap compiler is often a temporary compiler, used for compiling a more permanent or better optimised compiler for a language.Related software include, a program that translates from a low-level language to a higher level one is a decompiler ; a program that translates between high-level languages, usually called a source-to-source compiler or transpiler. A language rewriter is usually a program that translates the form of expressions without a change of language. A compiler-compiler is a compiler that produces a compiler (or part of one), often in a generic and reusable way so as to be able to produce many differing compilers. A compiler is likely to perform some or all of the following operations, often called phases: preprocessing, lexical analysis, parsing, semantic analysis (syntax-directed translation), conversion of input programs to an intermediate representation, code optimization and code generation. Compilers generally implement these phases as modular components, promoting efficient design and correctness of transformations of source input to target output. Program faults caused by incorrect compiler behavior can be very difficult to track down and work around; therefore, compiler implementers invest significant effort to ensure compiler correctness.[4] n    Compilers are not the only language processor used to transform source programs. An interpreter is computer software that transforms and then executes the indicated operations.[2]: p2  The translation process influences the design of computer languages, which leads to a preference of compilation or interpretation. In theory, a programming language can have both a compiler and an interpreter. In practice, programming languages tend to be associated with just one (a compiler or an interpreter)."
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -20,8 +22,10 @@
     "total_view": 488,
     "title": "Learn Data Structure and Algorithm - CSE basic",
     "name": "Data Structure and Algorithm",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "image_url": "https://miro.medium.com/max/1400/1*-EFdnPuVrwUOmYte11v0OA.png",
+    "intro":"Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. ",
+    "descrition":"A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.",
+    "details": "Data structures are generally based on the ability of a computer to fetch and store data at any place in its memory, specified by a pointer—a bit string, representing a memory address, that can be itself stored in memory and manipulated by the program. Thus, the array and record data structures are based on computing the addresses of data items with arithmetic operations, while the linked data structures are based on storing addresses of data items within the structure itself."
   },
 
   {
@@ -37,8 +41,10 @@
   
       "name": "Operating System",
      
-    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-    "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    "image_url": "https://1.bp.blogspot.com/-ji0b2CRNVaA/YDZ3V5AEjyI/AAAAAAAABFE/LT_3uc1x3goZGKlJ6iBVmZHbDtWDTcpuwCLcBGAsYHQ/s826/5_Advantages_and_Disadvantages_of_Operating_System_Limitations_%2526_Benefits_of_Operating_System.jpg",
+    "intro": "An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.",
+    "descrition": "Time-sharing operating systems schedule tasks for efficient use of the system and may also include accounting software for cost allocation of processor time, mass storage, printing, and other resources.",
+    "details": "The dominant general-purpose personal computer operating system is Microsoft Windows with a market share of around 74.99%. macOS by Apple Inc. is in second place (14.84%), and the varieties of Linux are collectively in third place (2.81%).[3] In the mobile sector (including smartphones and tablets), Android's share is 70.82% in the year 2020.[4] According to third quarter 2016 data, Android's share on smartphones is dominant with 87.5 percent with a growth rate of 10.3 percent per year, followed by Apple's iOS with 12.1 percent with per year decrease in market share of 5.2 percent, while other operating systems amount to just 0.3 percent.[5] Linux distributions are dominant in the server and supercomputing sectors. Other specialized classes of operating systems (special-purpose operating systems),[6][7] such as embedded and real-time systems, exist for many applications. Security-focused operating systems also exist. Some operating systems have low system requirements (e.g. light-weight Linux distribution). Others may have higher system requirements."
   },
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -53,8 +59,10 @@
     
       "name": "Computer Organization",
      
-    "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-    "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+    "image_url": "https://d8it4huxumps7.cloudfront.net/uploads/images/61c444b095b19_basic_architecture_of_computer.jpg",
+    "intro": "Computer Organization and Architecture Tutorial provides in-depth knowledge of internal working, structuring, and implementation of a computer system.",
+    "descrition": "Our Computer Organization and Architecture Tutorial includes all topics of such as introduction, ER model, keys, relational model, join operation, SQL, functional dependency, transaction, concurrency control, etc.",
+    "details": "Organization of a computer system defines the way system is structured so that all those catalogued tools can be used. The significant components of Computer organization are ALU, CPU, memory and memory organization.Before learning the concepts of Computer Architecture and Organization, you should have a basic knowledge prior to Computer Architecture, basic functional units of a computer system, etc."
   },
 
   {
@@ -70,8 +78,10 @@
    
       "name": "DBMS",
       
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xffltEnKN3cA_pJWzh4RepkVKurdON-Xfw&usqp=CAU",
+    "intro": "A database management system (DBMS) is system software for creating and managing databases. ",
+    "descrition":"A DBMS makes it possible for end users to create, protect, read, update and delete data in a database. The most prevalent type of data management platform, the DBMS essentially serves as an interface between databases and users or application programs, ensuring that data is consistently organized and remains easily accessible.",    
+    "details": "The DBMS manages the data; the database engine allows data to be accessed, locked and modified; and the database schema defines the database's logical structure. These three foundational elements help provide concurrency, security, data integrity and uniform data administration procedures. The DBMS supports many typical database administration tasks, including change management, performance monitoring and tuning, security, and backup and recovery. Most database management systems are also responsible for automated rollbacks and restarts as well as logging and auditing of activity in databases and the applications that access them."
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -86,39 +96,9 @@
     
       "name":"Discrete Mathematics",
    
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
-  },
-  {
-    "_id": "10468ed61aoe84de492a8b04158a22f0",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": false
-    },
-    "category_id": "06",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 980,
-    "title": "Learn Theory of Computation - CSE basic",
-    
-      "name":"Theory of Computation",
-   
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
-  },
-  {
-    "_id": "11768ed61aee84d5492a8b04158a22f0",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": false
-    },
-    "category_id": "06",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 980,
-    "title": "Learn Object Oriented Programming - CSE basic",
-    
-      "name":"Object Oriented Programming",
-   
-    "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-    "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+    "image_url": "https://lastmomenttuitions.com/wp-content/uploads/2019/08/dsc-mths.png",
+    "intro": "Discrete mathematics is the study of mathematical structures that can be considered discrete (in a way analogous to discrete variables, having a bijection with the set of natural numbers) rather than continuous(analogously to continuous functions).",
+    "descrition": "The set of objects studied in discrete mathematics can be finite or infinite. The term finite mathematics is sometimes applied to parts of the field of discrete mathematics that deals with finite sets, particularly those areas relevant to business.",
+    "details": "Research in discrete mathematics increased in the latter half of the twentieth century partly due to the development of digital computers which operate in discrete steps and store data in discrete bits. Concepts and notations from discrete mathematics are useful in studying and describing objects and problems in branches of computer science, such as computer algorithms, programming languages, cryptography, automated theorem proving, and software development. Conversely, computer implementations are significant in applying ideas from discrete mathematics to real-world problems."
   }
   ]
